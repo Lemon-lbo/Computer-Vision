@@ -1,0 +1,13 @@
+Perturbation,SPAN_Pixel_AUC,SPAN_F1,MT_Pixel_AUC,MT_F1
+No manipulation,92.8623,73.1015,72.0885,46.4326
+Resize (0.78x),84.3033,45.9511,62.2995,41.0246
+Resize (0.25x),65.1180,42.7021,61.0295,41.3749
+No manipulation,92.8623,73.1015,72.0885,46.4326
+GaussianBlur (kernal size=3),66.9455,42.7350,62.5679,41.2650
+GaussianBlur (kernal size=15),66.0669,42.7178,63.7693,42.9232
+No manipulation,92.8623,73.1015,72.0885,46.4326
+GaussianNoise (sigma=3),73.2138,42.8406,59.6219,42.5117
+GaussianNoise (sigma=15),67.8406,42.0767,51.9411,41.9424
+No manipulation,92.8623,73.1015,72.0885,46.4326
+JPEGCompress (quality=100),91.9075,71.3311,66.3478,41.5053
+JPEGCompress (quality=50),71.0305,42.5759,57.6961,42.4591
