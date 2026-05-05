@@ -32,12 +32,3 @@ The results provide a comparative understanding  and robustness of SPAN against 
 * Coverage: [https://github.com/wenbihan/coverage](https://github.com/wenbihan/coverage)
 * CASIA: [http://forensics.idealtest.org/casiav2/](http://forensics.idealtest.org/casiav2/)
 
-
-
-
-
-
-
-
-
-If you want, I can make a **stronger “research-style” version** (with more technical depth) or a **leaner recruiter-friendly version** that highlights impact more clearly.
