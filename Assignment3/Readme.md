@@ -1,8 +1,6 @@
 # Computer Vision – Assignment 3
 
-The folder covers spatial and frequency-domain operations, edge detection, and segmentation.
-
-## Tasks
+The repository covers spatial and frequency-domain operations, edge detection, and segmentation.
 
 1. **Fourier analysis**
    - Central white rectangle (size configurable) in a 100×100 binary image.
