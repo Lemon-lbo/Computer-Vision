@@ -27,6 +27,3 @@ This repository contains implementations of key image processing techniques, inc
 * Extracted RGB channels from *windmills.jpg*.
 * Aligned green and red channels to the blue channel using SSD over a displacement window.
 * Computed optimal displacement vectors and reconstructed the final color image.
-
-
-If you want, I can make this sound **more “GitHub polished” (with badges, structure, or recruiter-friendly tone)** or **more technical (with equations and metrics)**.
